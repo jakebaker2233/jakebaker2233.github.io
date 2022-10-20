@@ -10,7 +10,7 @@
     appId: 'jakeb.us-home'
   };
 </script>
- </h1>
+
 
 <p style="font-size: 20px">This is line 2.8!! Where one day I'll have a sidekick! </p>
 
