@@ -9,6 +9,6 @@ const d = new Date();
 document.getElementById("demo").innerHTML = d.getFullYear();
 </script>
 
-<p style="font-size: 20px">This is line 2!! Where one day I'll have a sidekick! </p>
+<p style="font-size: 20px">This is line 2.5!! Where one day I'll have a sidekick! </p>
 
 
